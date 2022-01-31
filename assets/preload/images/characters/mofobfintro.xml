@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mofobfintro.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FBF idle 20000" x="0" y="0" width="428" height="423" frameX="-13" frameY="-4" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20001" x="0" y="0" width="428" height="423" frameX="-13" frameY="-4" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20002" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20003" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20004" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20005" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20006" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20007" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20008" x="428" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle 20009" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle 20010" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle 20011" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle 20012" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle 20013" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle 20014" x="854" y="0" width="442" height="427"/>
+	<SubTexture name="FBF idle to idle0000" x="0" y="0" width="428" height="423" frameX="-13" frameY="-4" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0001" x="0" y="0" width="428" height="423" frameX="-13" frameY="-4" frameWidth="442" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0002" x="1296" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0003" x="1296" y="0" width="426" height="422" frameX="-15" frameY="-5" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0004" x="0" y="427" width="431" height="423" frameX="-12" frameY="-4" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0005" x="0" y="427" width="431" height="423" frameX="-12" frameY="-4" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0006" x="431" y="427" width="431" height="423" frameX="-12" frameY="-4" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0007" x="431" y="427" width="431" height="423" frameX="-12" frameY="-4" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0008" x="862" y="427" width="431" height="423" frameX="-12" frameY="-4" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0009" x="1293" y="427" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0010" x="1293" y="427" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0011" x="0" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0012" x="0" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0013" x="442" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0014" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0015" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0016" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0017" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0018" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0019" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0020" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0021" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0022" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0023" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0024" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0025" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0026" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0027" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0028" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0029" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0030" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0031" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0032" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0033" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0034" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0035" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0036" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0037" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0038" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0039" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0040" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0041" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0042" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0043" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0044" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0045" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0046" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0047" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0048" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0049" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0050" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0051" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0052" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0053" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0054" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0055" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0056" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0057" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0058" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0059" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0060" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0061" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0062" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0063" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0064" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0065" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0066" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0067" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0068" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+	<SubTexture name="FBF idle to idle0069" x="884" y="854" width="442" height="427" frameX="0" frameY="0" frameWidth="443" frameHeight="427"/>
+</TextureAtlas>
