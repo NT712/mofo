@@ -1,0 +1,31 @@
+{
+	"storyName": "Let's start the tutorial dude",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mofo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Start",
+			"bf",
+			[
+				60,
+				60,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial 2"
+}
