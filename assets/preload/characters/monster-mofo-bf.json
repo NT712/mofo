@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MFBF idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				89
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MFBF left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-68
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MFBF right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				164
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MFBF up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MFBF down0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monstermofobf",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		102,
+		158
+	],
+	"camera_position": [
+		-30,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

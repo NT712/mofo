@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FBF idle 2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "transition",
+			"indices": [],
+			"name": "FBF idle to idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mofobfintro",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		102,
+		158
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
