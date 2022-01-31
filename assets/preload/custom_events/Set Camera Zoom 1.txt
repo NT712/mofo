@@ -1,0 +1,3 @@
+Cambia el Zoom por defecto tu mismo mi loco
+usa el value 1 para ello
+el value 2 no sirve kisde
